@@ -4,3 +4,8 @@
 *.txt
 gokce-visualization.py
 *.ipynb
+
+# Airflow logs and Python bytecode
+logs/
+__pycache__/
+*.py[cod]
